@@ -36,4 +36,4 @@ route:
 receivers:
 - name: 'mail-notifications'
   email_configs:
-  - to: '514973151@qq.com'
+  - to: 'gavin_w@126.com'
