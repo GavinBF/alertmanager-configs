@@ -36,4 +36,4 @@ route:
 receivers:
 - name: 'mail-notifications'
   email_configs:
-  - to: 'gavin_w@126.com, wanghonglei@faw.com.cn, xuzhi@faw.com.cn, chencw@paraview.cn, hge@mesosphere.com, xumingyue@faw.com.cn'
+  - to: 'gavin_w@126.com, wanghonglei@faw.com.cn, xuzhi@faw.com.cn, chencw@paraview.cn, zgao@d2iq.com, hge@mesosphere.com, xumingyue@faw.com.cn'
